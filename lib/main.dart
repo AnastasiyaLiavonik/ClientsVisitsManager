@@ -33,6 +33,7 @@ class Client {
   List<Visit>? visits;
 }
 
+// fixing
 class DatabaseHelper {
   factory DatabaseHelper() => _instance;
 
